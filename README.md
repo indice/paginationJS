@@ -1,0 +1,3 @@
+# paginationJS
+
+Simple pagination HTML

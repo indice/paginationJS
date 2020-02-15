@@ -1,6 +1,4 @@
-# Initial page
+# paginationJS
 
-Hola me llamo pedro y esto es una prueba. No se que soño significa todo esto.
-
-## 
+Simple pagination HTML
 
